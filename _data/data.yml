@@ -19,7 +19,7 @@ sidebar:
 
   # Profile information
   name: Diego Cerda Mardini
-  tagline: Dental AI Researcher at Mila and McGill
+  tagline: "Dental AI Researcher at McGill & Mila"
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -54,10 +54,10 @@ sidebar:
       level: Native
 
 career-profile:
-  title: A bit about me
+  title: About me
   summary: |
     Hello! Thank you for stopping by! My name is Diego and I'm a dentist from Chile, who then turned ML researcher for healthcare!
-    I focus on bridging the gap between state-of-the-art AI models, such as Computer Vision and NLP, and the real needs within healthcare. 
+    I focus on bridging the gap between state-of-the-art AI models, such as Computer Vision and NLP, and the real needs in healthcare. 
     My main research interest is automating the diagnosis of chronic, non-transmissible diseases for better prevention. I'm building an 
     intersectional profile of three equal parts: clinician, machine learning engineer and entrepreneurship.
     
@@ -86,7 +86,7 @@ certifications:
     credentialurl: 
     credentialname: 
     details: |
-      I'm researching the use of Large Language Models (LLMs) for
+      Currently, I'm researching the use of Large Language Models (LLMs) for
       explaining and diminishing the predictive uncertainty in AI 
       Oral Cancer diagnosis. Considering LLMs as post-hoc explainers
       and diagnostic aids. Working at Chandar Research Lab (CRL) and MadLabs McGill.
@@ -111,12 +111,12 @@ experiences:
   - role: Teaching Assistant at McGill
     time: 2025 - now
     company: DENT 601 - Quantitative Data Analysis for Oral Health Research.
-    details: "Instructing first year dental master students on R programming for quantitative data analysis."
+    details: "Instructing first year master students on R programming for quantitative data analysis."
 
   - role: Research Assistant at McGill
     time: 2024 - Now
     company: Dr. Sreenath Madathil, MadLabs, McGill
-    details: "Working under Dr. Sreenath for diagnostic AI research, such as Landmarking for end-of-life event predictions, and data collection for multi-center model validation studies."
+    details: "Working under Dr. Madathil for diagnostic AI research, such as landmarking for end-of-life event predictions, and data collection for multi-center model validation studies."
 
   - role: Scientific Advisor for CoreDevX
     time: 2024 - 2025
