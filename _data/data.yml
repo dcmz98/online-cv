@@ -118,26 +118,6 @@ experiences:
     company: BMC Oral Health
     details: "Worked as editor in training for the peer-reviewed journal BMC Oral Health (March 2023 - March 2024)"
 
-skills:
-  title: Skills
-  info:
-  - role: Python
-    time: 
-    company: 
-    details: Intermediate Python skills, using Pandas, Numpy and Scikit-Learn for data analysis and ML models.
-  - role: R
-    time: 
-    company: 
-    details: Intermediate R skills,  using package Tidyverse for data analysis and simple ML models.
-  - role: Public Speaking
-    time: 2024 - 2025
-    company: 
-    details: I excel at public speaking, capturing peoples attention and evoking emotion. As tidbit, I scored 2nd place on a national public speaking competition when I was younger (ESU Chile 2013).
- -  role: Communication & Teamwork
-    time: 
-    company: 
-    details: Im collaborative, listen attentively and aim for teamwork. My previous work as a clinician has taught me to remain calm under stressful scenarios, such as Code Blue medical emergencies and treating with patients in a low-income context.
-
 proficiency:
   title: Skills &amp; Proficiency
 
