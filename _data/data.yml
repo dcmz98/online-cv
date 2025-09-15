@@ -1,3 +1,13 @@
+# Specify the order in which sections should appear
+section_order:
+  - career-profile
+  - education
+  - certifications   # Research/Certifications
+  - publications
+  - experiences
+  - proficiency
+  - footer
+
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
