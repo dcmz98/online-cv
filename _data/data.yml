@@ -59,7 +59,7 @@ career-profile:
     Hello! Thank you for stopping by! My name is Diego and I'm a dentist from Chile, who then turned ML researcher for healthcare!
     I focus on bridging the gap between state-of-the-art AI models, such as Computer Vision and NLP, and the real needs within healthcare. 
     My main research interest is automating the diagnosis of chronic, non-transmissible diseases for better prevention. I'm building an 
-    intersectional profile of three equal parts: clinician, machine learning engineer and entrepreneurship. Allowing me
+    intersectional profile of three equal parts: clinician, machine learning engineer and entrepreneurship.
     
 education:
   title: Education
@@ -89,9 +89,7 @@ certifications:
       I'm researching the use of Large Language Models (LLMs) for
       explaining and diminishing the predictive uncertainty in AI 
       Oral Cancer diagnosis. Considering LLMs as post-hoc explainers
-      and diagnostic aids.
-
-      Working at Chandar Research Lab (CRL) and MadLabs McGill.
+      and diagnostic aids. Working at Chandar Research Lab (CRL) and MadLabs McGill.
 
 publications:
   title: First Author Publications
