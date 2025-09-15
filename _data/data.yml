@@ -77,37 +77,8 @@ education:
     details: |
 
 certifications:
-  title: Research
-  list:
-  - name: Masters in Artificial Intelligence and Dental Sciences
-    start: 2024
-    end: 2026
-    organization: McGill University and Mila Quebec
-    credentialid: 
-    credentialurl: 
-    credentialname: 
-    details: |
-      I'm researching the use of Large Language Models (LLMs) for
-      explaining and diminishing the predictive uncertainty in AI 
-      Oral Cancer diagnosis.
-
-publications:
-  title: First Author Publications
-  intro: |
-  papers:
-  - title: Blockchain for Trustworthy Artificial Intelligence in Dentistry
-    link: "https://journals.sagepub.com/doi/10.1177/23800844241303483"
-    authors: Cerda-Mardini D, Sharma M, Madathil S.A
-    conference: JDR Clinical and Translational Research, 2024
-
-  - title: Determining the Efficacy of a Machine Learning Model for Measuring Periodontal Bone Loss
-    link: "https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-023-03819-w"
-    authors: Cerda-Mardini D, Cerda-Mardini P, Vicuña D.P, Ortuño D.R
-    conference: BMC Oral Health, 2024
-
-experiences:
   title: Experience
-  info:
+  list:
   - role: Teaching Assistant at McGill
     time: 2025 - now
     company: DENT 601 - Quantitative Data Analysis for Oral Health Research.
@@ -128,6 +99,36 @@ experiences:
     company: BMC Oral Health
     details: "Worked as editor in training for the peer-reviewed journal BMC Oral Health (March 2023 - March 2024)"
 
+publications:
+  title: First Author Publications
+  intro: |
+  papers:
+  - title: Blockchain for Trustworthy Artificial Intelligence in Dentistry
+    link: "https://journals.sagepub.com/doi/10.1177/23800844241303483"
+    authors: Cerda-Mardini D, Sharma M, Madathil S.A
+    conference: JDR Clinical and Translational Research, 2024
+
+  - title: Determining the Efficacy of a Machine Learning Model for Measuring Periodontal Bone Loss
+    link: "https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-023-03819-w"
+    authors: Cerda-Mardini D, Cerda-Mardini P, Vicuña D.P, Ortuño D.R
+    conference: BMC Oral Health, 2024
+
+experiences:
+  title: Research
+  info:
+  name: Masters in Artificial Intelligence and Dental Sciences
+    start: 2024
+    end: 2026
+    organization: McGill University and Mila Quebec
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      I'm researching the use of Large Language Models (LLMs) for
+      explaining and diminishing the predictive uncertainty in AI 
+      Oral Cancer diagnosis.
+
+  
 proficiency:
   title: Skills &amp; Proficiency
 
