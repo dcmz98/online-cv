@@ -111,22 +111,22 @@ experiences:
   - role: Teaching Assistant at McGill
     time: 2025 - now
     company: DENT 601 - Quantitative Data Analysis for Oral Health Research.
-    details: ""
+    details: "Instructing first year dental master students on R programming for quantitative data analysis."
 
-  - role: Research Assistant
+  - role: Research Assistant at McGill
     time: 2024 - Now
     company: Dr. Sreenath Madathil, MadLabs, McGill
-    details: ""
+    details: "Working under Dr. Sreenath for diagnostic AI research, such as Landmarking for end-of-life event predictions, and data collection for multi-center model validation studies."
 
   - role: Scientific Advisor at CoreDevX
     time: 2024 - 2025
     company: Amazon, London
-    details: Advised the development of AI models for the diagnosis of tumors and cysts in X-rays.
+    details: "Advised on the development of AI models for the diagnosis of tumors and cysts in panoramic X-rays."
 
   - role: Peer reviewed editorial work
     time: 2023 - 2024
     company: BMC Oral Health
-    details: "Worked as editor in training for the peer-reviewed journal BMC Oral Health (March 2023 - March 2024)"
+    details: "Worked as editor for the peer-reviewed journal BMC Oral Health (March 2023 - March 2024)."
 
 proficiency:
   title: Skills &amp; Proficiency
