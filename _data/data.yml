@@ -13,7 +13,7 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: diego.cerdamardini@mail.mcgill.ca
+  email: dcmz98@gmail.com
   phone: (438) 458-4743
   timezone: # Canada/Quebec # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
@@ -37,67 +37,55 @@ sidebar:
   languages:
     title: Languages
     info:
+    - idiom: Spanish
+      level: Native
+
     - idiom: English
       level: Native
 
-    - idiom: French
-      level: Professional
+#    - idiom: Spanish
+#      level: Professional
 
-    - idiom: Spanish
-      level: Professional
-
-  interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
+#  interests:
+#    title: Interests
+#    info:
+#    - item: Climbing
+#      link:
 
 
-    - item: Snowboarding
-      link:
+#    - item: Snowboarding
+#      link:
 
 
-    - item: Cooking
-      link:
+ #   - item: Cooking
+ #     link:
 
 
 career-profile:
-  title: Career Profile
+  title: Mission Statement
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I am focusing on bridging the gap between state-of-the-art AI models, 
+    such as Computer Vision and Natural Language Processing (NLP) techniques, 
+    and the real needs within healthcare. My main research focus is in the automated 
+    diagnosis of chronic, non-transmissible conditions for prevention and early intervention. 
+    To achieve this, I’m building an intersectional profile of three equal parts: 
+    clinician, machine learning engineer and entrepreneurship
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: MSc in Dental Sciences
+    university: McGill University & Mila Quebec
+    time: 2024 - Now
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Applying LLMs to explain and diminish predictive uncertainty in AI prediction of Oral
+      Cancer diagnosis.
+  - degree: Doctor of Dental Surgery (DDS)
+    university: Universidad de los Andes (Chile)
+    time: 2017 - 2022
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
 
 experiences:
-  title: Experiences
+  title: Experience
   info:
   - role: Lead Developer
     time: 2015 - Present
