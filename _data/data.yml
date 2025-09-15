@@ -58,8 +58,10 @@ career-profile:
   summary: |
     Hello! Thank you for stopping by! My name is Diego and I'm a dentist from Chile, who then turned Machine Learning (ML) researcher for healthcare!
     I am focusing on bridging the gap between state-of-the-art AI models, such as Computer Vision and NLP, and the real needs within healthcare. 
+    
     My main research interest is automating the diagnosis of chronic, non-transmissible diseases for better prevention. 
-    Currently, I'm researching the use of LLMs for explaining and diminishing predictive uncertainty in oral cancer diagnosis.
+    Currently, I'm researching the use of LLMs for explaining and diminishing predictive uncertainty in oral cancer diagnosis. At MadLabs (McGill) and Chandar Research Lab (Mila).
+    
     I'm building an intersectional profile of three equal parts: clinician, machine learning engineer and entrepreneurship.
     
 education:
@@ -118,9 +120,9 @@ experiences:
     company: Dr. Sreenath Madathil, MadLabs, McGill
     details: "Working under Dr. Sreenath for diagnostic AI research, such as Landmarking for end-of-life event predictions, and data collection for multi-center model validation studies."
 
-  - role: Scientific Advisor at CoreDevX
+  - role: Scientific Advisor for CoreDevX
     time: 2024 - 2025
-    company: Amazon, London
+    company: CoreDevX
     details: "Advised on the development of AI models for the diagnosis of tumors and cysts in panoramic X-rays."
 
   - role: Peer reviewed editorial work
