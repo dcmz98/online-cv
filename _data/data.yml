@@ -19,7 +19,7 @@ sidebar:
 
   # Profile information
   name: Diego Cerda Mardini
-  tagline: Dental AI Researcher at Mila Quebec
+  tagline: Dental AI Researcher at Mila and McGill
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -56,12 +56,12 @@ sidebar:
 career-profile:
   title: Mission Statement
   summary: |
-    I am focusing on bridging the gap between state-of-the-art AI models, 
-    such as Computer Vision and Natural Language Processing (NLP) techniques, 
-    and the real needs within healthcare. My main research focus is in the automated 
-    diagnosis of chronic, non-transmissible conditions for prevention and early intervention. 
-    To achieve this, I’m building an intersectional profile of three equal parts: 
-    clinician, machine learning engineer and entrepreneurship
+    Hello! Thank you for stopping by! My name is Diego and I'm a dentist from Chile, who then turned Machine Learning (ML) researcher for healthcare!
+    I am focusing on bridging the gap between state-of-the-art AI models, such as Computer Vision and NLP, and the real needs within healthcare. 
+    My main research interest is automating the diagnosis of chronic, non-transmissible diseases for better prevention. 
+    Currently, I'm researching the use of LLMs for explaining and diminishing predictive uncertainty in oral cancer diagnosis.
+    I'm building an intersectional profile of three equal parts: clinician, machine learning engineer and entrepreneurship.
+    
 education:
   title: Education
   info:
